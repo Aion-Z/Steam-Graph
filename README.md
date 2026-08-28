@@ -4,6 +4,8 @@ This repository contains the processed datasets and graph files for a comparativ
 
 Originally focused on exploring the Steam ecosystem across four major regions (**Brazil, China, USA and Germany**), the project has since expanded to include data from **Backloggd**. By utilizing both platforms, this research aims to cross-validate findings, test topological invariance across different logging platforms, and provide a broader look at digital gaming cultures.
 
+You can now immediately access the more complete Backlogged graph on the following link: https://aion-z.github.io/network/
+
 ---
 
 ## Repository Structure
